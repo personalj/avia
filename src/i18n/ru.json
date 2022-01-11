@@ -1,0 +1,24 @@
+{
+    "filterStops": {
+        "title": "Количество пересадок",
+        "all": "Все",
+        "withoutStops": "Без пересадок",
+        "oneStop": "1 пересадка",
+        "twoStops": "2 пересадки",
+        "threeStops": "3 пересадки"
+    },
+    "filterOptions" : {
+        "cheapest": "Самый дешевый",
+        "fastest": "Самый быстрый"
+    },
+    "tickets": {
+        "emptyList": "Извините, по выбранным вами параметрам ничего не найдено.",
+        "duration": "В пути",
+        "hours": "ч",
+        "minutes": "м",
+        "withoutStops": "Без пересадок",
+        "stop": "Пересадка",
+        "stops": "Пересадки",
+        "loadMore": "Показать еще 5 билетов!"
+    }
+}

@@ -1,0 +1,23 @@
+
+$baseWhite: #ffffff;
+$baseBlack: #4A4A4A;
+$baseBlue: #2196F3;
+$lightBlue: #F3F7FA;
+$secondaryBlue: #F1FCFF;
+$baseGray: #DFE5EC;
+$secondaryGray: #A0B0B9;
+$thirdlyGray: #9ABBCE;
+
+$openSans: "Open Sans";
+$offset: .625rem;
+
+$defaultRadius: 5px;
+$radius-10: 10px;
+
+@mixin transition {
+  transition: all 0.3s ease;
+}
+
+@mixin boxShadow {
+  box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.1);
+}
